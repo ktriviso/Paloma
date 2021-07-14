@@ -53,6 +53,9 @@ module.exports = {
       maxWidth: {
         215: "860px",
       },
+      minWidth: {
+        130: "130px",
+      },
       boxShadow: {
         drop: "0px 1px 10px rgba(0, 0, 0, 0.15)",
       },
